@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme using Material 3 -->
+    <style name="Base.Theme.SoftwareHouseApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Light theme customizations -->
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorSecondary">@color/my_light_secondary</item>
+        <!-- Add other Material3 attributes as needed -->
+    </style>
+
+    <!-- Your app's theme inheriting from the base theme -->
+    <style name="Theme.SoftwareHouseApplication" parent="Base.Theme.SoftwareHouseApplication" />
+</resources>
