@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "software house application"
+rootProject.name = "software house manager"
 include ':app'
